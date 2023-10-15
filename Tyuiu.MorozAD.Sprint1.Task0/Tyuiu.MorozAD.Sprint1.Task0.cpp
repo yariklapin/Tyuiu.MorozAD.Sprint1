@@ -13,6 +13,7 @@ auto sum(double x,double  y, double z)
 
 int main()
 {
+    setlocale(LC_ALL, "Rus");
     cout << "Send first number: \n";
     int x;
     cin >> x;
