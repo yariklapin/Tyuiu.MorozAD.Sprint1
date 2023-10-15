@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C8EF3D23-FEBA-422E-AA5A-C1E3BBFCD107}</ProjectGuid>
+    <ProjectGuid>{045C6BB8-E2B7-4F8C-84E2-F1446157BF20}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.MorozAD.Sprint1.Task0.V0</RootNamespace>
-    <AssemblyName>Tyuiu.MorozAD.Sprint1.Task0.V0</AssemblyName>
+    <RootNamespace>Tyuiu.MorozAD.Sprint1.Task1.V12</RootNamespace>
+    <AssemblyName>Tyuiu.MorozAD.Sprint1.Task1.V12</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.MorozAD.Sprint0.Task1.V5.Lib\Tyuiu.MorozAD.Sprint1.Task0.V5.Lib.csproj">
-      <Project>{b704e504-7d65-4d71-b9ae-ac274be10bba}</Project>
-      <Name>Tyuiu.MorozAD.Sprint1.Task0.V5.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.MorozAD.Sprint1.Task2.V12.Lib\Tyuiu.MorozAD.Sprint1.Task2.V12.Lib.csproj">
+      <Project>{df25797e-921b-4a56-b641-0618f319ee56}</Project>
+      <Name>Tyuiu.MorozAD.Sprint1.Task2.V12.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
