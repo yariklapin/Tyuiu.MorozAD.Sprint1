@@ -15,7 +15,7 @@ namespace Tyuiu.MorozAD.Sprint1.Task0.V0
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #1 | Выполнил : Мороз А.Д |СМАРТб- 23-1";
+            Console.Title = "Спринт #0 | Выполнил : Мороз А.Д |СМАРТб- 23-1";
             Console.WriteLine("************************************************************************");
             Console.WriteLine("* Спринт #1                                                            *");
             Console.WriteLine("* Тема: Базовые навыки работы С#                                       *");
