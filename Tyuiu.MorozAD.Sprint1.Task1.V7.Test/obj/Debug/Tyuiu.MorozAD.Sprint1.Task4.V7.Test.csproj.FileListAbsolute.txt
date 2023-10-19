@@ -1,0 +1,17 @@
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Tyuiu.MorozAD.Sprint1.Task1.V7.Test.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Tyuiu.MorozAD.Sprint1.Task1.V7.Test.pdb
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Tyuiu.MorozAD.Sprint1.Task1.V7.Lib.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Tyuiu.MorozAD.Sprint1.Task1.V7.Lib.pdb
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\obj\Debug\Tyuiu.MorozAD.Sprint1.Task4.V7.Test.csproj.AssemblyReference.cache
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\obj\Debug\Tyuiu.MorozAD.Sprint1.Task4.V7.Test.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\obj\Debug\Tyuiu.MorozAD.Sprint1.Task4.V7.Test.csproj.CopyComplete
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\obj\Debug\Tyuiu.MorozAD.Sprint1.Task1.V7.Test.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task1.V7.Test\obj\Debug\Tyuiu.MorozAD.Sprint1.Task1.V7.Test.pdb

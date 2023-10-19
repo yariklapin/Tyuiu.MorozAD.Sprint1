@@ -1,0 +1,11 @@
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\bin\Debug\Tyuiu.MorozAD.Sprint1.Task0.V0.exe.config
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\bin\Debug\Tyuiu.MorozAD.Sprint1.Task0.V0.exe
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\bin\Debug\Tyuiu.MorozAD.Sprint1.Task0.V0.pdb
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\bin\Debug\Tyuiu.MorozAD.Sprint0.Task1.V0.Lib.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\bin\Debug\Tyuiu.MorozAD.Sprint0.Task1.V0.Lib.pdb
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\obj\Debug\Tyuiu.MorozAD.Sprint1.Task0.V5.csproj.AssemblyReference.cache
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\obj\Debug\Tyuiu.MorozAD.Sprint1.Task0.V5.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\obj\Debug\Tyuiu.MorozAD.Sprint1.Task0.V5.csproj.CopyComplete
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\obj\Debug\Tyuiu.MorozAD.Sprint1.Task0.V0.exe
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.Task0.V5\obj\Debug\Tyuiu.MorozAD.Sprint1.Task0.V0.pdb

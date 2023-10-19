@@ -1,0 +1,11 @@
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\bin\Debug\Tyuiu.MorozAD.Sprint1.SprintReview.V14.exe.config
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\bin\Debug\Tyuiu.MorozAD.Sprint1.SprintReview.V14.exe
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\bin\Debug\Tyuiu.MorozAD.Sprint1.SprintReview.V14.pdb
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\obj\Debug\Tyuiu.MorozAD.Sprint1.SprintReview.V14.csproj.AssemblyReference.cache
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\obj\Debug\Tyuiu.MorozAD.Sprint1.SprintReview.V14.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\obj\Debug\Tyuiu.MorozAD.Sprint1.SprintReview.V14.exe
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\obj\Debug\Tyuiu.MorozAD.Sprint1.SprintReview.V14.pdb
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\bin\Debug\Tyuiu.MorozAD.Sprint1.SprintReview.V14.Lib.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\bin\Debug\Tyuiu.MorozAD.Sprint1.SprintReview.V14.Lib.pdb
+C:\Users\Артём\source\repos\Tyuiu.MorozAD.Sprint1\Tyuiu.MorozAD.Sprint1.SprintReview.V14\obj\Debug\Tyuiu.MorozAD.Sprint1.SprintReview.V14.csproj.CopyComplete
